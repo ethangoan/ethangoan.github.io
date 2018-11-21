@@ -8,5 +8,8 @@ main:
     url: /_pages/research
   - title: "Talks"
     url: /_pages/talks
+  - title: "arXivSearch"
+    url: /_pages/arxivsearch
+    
 # - title: "Sitemap"
   #   url: /sitemap/
