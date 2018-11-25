@@ -20,24 +20,23 @@ feature_row:
   - image_path: /assets/images/fair.png
     title: "Fairness in Statistics and Machine Learning"
     excerpt: "List of papers identifying the concerns of fairness and machine learning, and how we as a community can develop ML methods that are equitable."
-    url: "https://github.com/logangraham/arxausality"
+    url: "/_pages/fairness"
     btn_label: "Fairness"
     btn_class: "btn--inverse"
   - image_path: /assets/images/interpretable.png
     title: "Interpretable Machine Learning"
     excerpt: "Many modern machine learning methods (primarily those powered by nueral networks), are opaque in operation. Keep uo to date with the latest work in addressing the issues relating to how we can better understand the inherent nature of these methods."
-    url: "www.google.com"
+    url: "/_pages/fairness"
     btn_label: "Fairness"
     btn_class: "btn--inverse"
   - image_path: /assets/images/VI.png
     title: "Variational (and other approximation) Methods"
     excerpt: "We in the machine learning community are admittedly not great at integrating, but wow are we good at differentiating. This page lists modern papers submitted which aim to convert probabilistic inference into an optimisation problem. (Monte Carlo methods are also listed here as well)"
-    url: "www.google.com"
-    btn_label: "Variational Inference"  
-    btn_class: "btn--inverse"    
+    url: "/_pages/variational"
+    btn_label: "Variational Inference"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row  %}
 
-  
 {% include feature_row id="feature_row2" type="left" %}
