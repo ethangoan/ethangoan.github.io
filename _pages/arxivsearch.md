@@ -10,6 +10,7 @@ feature_row:
     url: "/_pages/bnn"
     btn_label: "BNNs"
     btn_class: "btn--inverse"
+
   - image_path: /assets/images/causal.png
     alt: "Causal Inference"
     title: "Causal Inference"
@@ -17,18 +18,21 @@ feature_row:
     url: "https://github.com/logangraham/arxausality"
     btn_label: "arXausality"
     btn_class: "btn--inverse"
+  
   - image_path: /assets/images/fair.png
     title: "Fairness in Statistics and Machine Learning"
     excerpt: "List of papers identifying the concerns of fairness and machine learning, and how we as a community can develop ML methods that are equitable."
     url: "/_pages/fairness"
     btn_label: "Fairness"
     btn_class: "btn--inverse"
+  
   - image_path: /assets/images/interpretable.png
     title: "Interpretable Machine Learning"
     excerpt: "Many modern machine learning methods (primarily those powered by nueral networks), are opaque in operation. Keep uo to date with the latest work in addressing the issues relating to how we can better understand the inherent nature of these methods."
-    url: "/_pages/fairness"
-    btn_label: "Fairness"
+    url: "/_pages/interpretable"
+    btn_label: "Interpretable ML"
     btn_class: "btn--inverse"
+  
   - image_path: /assets/images/VI.png
     title: "Variational (and other approximation) Methods"
     excerpt: "We in the machine learning community are admittedly not great at integrating, but wow are we good at differentiating. This page lists modern papers submitted which aim to convert probabilistic inference into an optimisation problem. (Monte Carlo methods are also listed here as well)"
