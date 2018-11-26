@@ -1,3 +1,3 @@
 # My Research Blog
 
-[Check it out](ethangoan.github.io)
+[Check it out](https://ethangoan.github.io)
