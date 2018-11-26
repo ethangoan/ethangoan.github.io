@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Ethan Goan"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD. Candidate at QUT, studying how probabilistic methods can be used for interpretable deep learning."
+  bio              : "PhD. Candidate at QUT, studying how being Bayesian can help us understand deep learning."
   location         : "Brisbane Australia"
   email            : # "e.goan@hdr.qut.edu.au"
   links:
