@@ -14,6 +14,7 @@ excerpt: "PhD. Candidate at QUT.\n
 Probabilistic Machine Learning and Computer Vision.<br><br>"
 author_profile: true
 ---
+
 ## Brief Bio
 I am a second year PhD. student at QUT as a member of the [SAIVT](https://research.qut.edu.au/saivt/),  [BRAG](https://bragqut.wordpress.com/) and [BMDS](http://www.biomedicaldatascience.com/) labs. Also a member of the Australian Research Council Centre of Excellence for Mathematical and Statistical Frontiers [(ACEMS)](https://acems.org.au/).
 
